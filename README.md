@@ -32,7 +32,7 @@ You will need a SQL database management system (e.g., MySQL, PostgreSQL, or SQL 
 ### Installation & Setup
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/AryanHooda-04/sql-data-analytics-project.git](https://github.com/AryanHooda-04/sql-data-analytics-project.git)
+   git clone https://github.com/AryanHooda-04/sql-data-analytics-project.git
    ```
 2. **Initialize Database:**
 * Open your SQL client and connect to your server.
