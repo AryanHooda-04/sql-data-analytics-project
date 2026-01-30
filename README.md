@@ -6,6 +6,8 @@
 ## 📌 Project Overview
 This repository contains a comprehensive set of SQL scripts designed for data exploration, cleaning, and advanced business analytics. The goal of this project is to transform raw data into actionable insights using structured query language. This project demonstrates real-world data analytics workflows used in business intelligence, reporting, and decision-support systems.
 
+![Project Roadmap](docs/Project_Roadmap.png)
+
 ## 🚀 Key Features
 * **Data Cleaning:** Scripts for handling NULL values, formatting date strings, and data normalization.
 * **Exploratory Data Analysis (EDA):** Initial queries to determine data distribution and summary statistics.
